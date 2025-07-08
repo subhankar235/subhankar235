@@ -66,7 +66,7 @@ I'm a passionate **Full Stack Web Developer** from India, currently diving deep 
 ## 🏅 My GitHub Badges
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=algolia&no-bg=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=subhankar235&theme=algolia&no-bg=true&margin-w=10" />
 </p>
 
 <p align="center">
