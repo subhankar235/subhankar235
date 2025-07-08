@@ -25,9 +25,7 @@
   <a href="https://x.com/SubhankarN33292">
     <img src="https://img.shields.io/badge/Twitter-@SubhankarN33292-blue?style=for-the-badge&logo=x" />
   </a>
-  <a href="mailto:subhankarnath57@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
-  </a>
+
 </p>
 
 ---
