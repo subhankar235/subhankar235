@@ -1,130 +1,142 @@
 
-<!-- Cover Image -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-username/main/banner.png" alt="Banner" />
-</p>
 
-<h1 align="center">Hi 👋, I'm Sanu Nath</h1>
-<h3 align="center">🚀 Full Stack Developer | Aspiring Gen AI Engineer | Lifelong Learner</h3>
+<!-- README.md -->
 
----
-
-## 🧭 About Me
-
-I'm a passionate **Full Stack Web Developer** from India, currently diving deep into **Backend Development, Python, and DevOps**, while transitioning into **Generative AI**. My mission is to create meaningful, intelligent products — and my dream is to land a **50+ LPA job** in 2 years at top companies like **Amazon, Flipkart, or Oracle**.
-
-💼 I'm currently in my **2nd year of B.Tech**, working hard to turn potential into results.
-
----
-
-## 🎯 Current Mission
-
-- 🚀 Master Backend: Node.js, Express, MongoDB, SQL
-- ⚙️ Learn DevOps: Linux, Docker, GitHub Actions, CI/CD
-- 🧠 Build AI skills: Python, NLP, Transformers, LangChain
-- ✍️ Write developer blogs (GFG, Hashnode)
-- 🧪 Build strong projects (frontend + backend + AI)
-- 🎯 Get an internship within 12 months
-- 🏆 Land a top job in 2–2.5 years
-
----
-
-## 🧰 Tech Stack
-
- 
-## 🛠 Tech Stack
-
-<table>
-## 🚀 Skills Overview
-
-### 🧠 Languages I Know
-<p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-</p>
-
----
-
-### ⚙️ Tech Stack I Use
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-</p>
-
----
-
-### 📚 Currently Learning
-<p align="left">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=api&logoColor=white" alt="REST API" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jwt&logoColor=white" alt="JWT" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" />
-  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=python&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FCC624?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-</p>
-
-
-## 📈 GitHub Stats
+<h1 align="center">Hey there, I'm subhankar nath👋</h1>
+<h3 align="center">🚀 Full-Stack Developer | Generative AI Explorer | Open Source Lover</h3>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=subhankar235&show_icons=true&theme=react&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=subhankar235theme=react&hide_border=true" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=💻+Building+Full-Stack+Apps+with+Next.js;📚+Learning+DevOps+%26+Generative+AI;🔍+Exploring+Clean+Architecture;🤝+Let%27s+Connect+and+Collaborate!" alt="Typing SVG" />
 </p>
+
+---
+
+### 🧑‍💻 About Me
+
+- 🌱 I’m currently learning **Node.js**, **Docker**, **Linux**, and **Generative AI**
+- 🚀 I love building clean and scalable **web products**
+- 📌 You can see my **pinned projects** below ⬇️
+- 🛠️ Currently working on my **Blog App** built with MERN + TypeScript
+- 📬 Reach out at: **tuhinpoddar114@gmail.com**
+
+---
+
+### 🌐 Let's Connect
+
+<p>
+  <a href="https://linkedin.com/in/tuhin-poddar-a2"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" /></a>
+  <a href="https://twitter.com/_tuhin114"><img src="https://img.shields.io/badge/Twitter-@_tuhin114-blue?style=flat&logo=x" /></a>
+  <a href="https://linktr.ee/Tuhin114"><img src="https://img.shields.io/badge/Linktree-Tuhin114-brightgreen?style=flat&logo=linktree" /></a>
+  <a href="mailto:tuhinpoddar114@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email-red?style=flat&logo=gmail" /></a>
+</p>
+
+---
+
+### 📝 Latest Blog
+
+> ✅ **Do You Really Need Context API in React? (vs Props)**  
+> 🔗 [Read on Hashnode](https://hashnode.com/@tuhin114)  
+> 📅 _Published: July 2025_  
+> 💬 A clean comparison of when to use Context API or just props in React — with examples and myths busted.
+
+---
+
+### 🚀 Featured Projects
+
+#### 🧠 BlogVerse – MERN Blog Application  
+> A full-featured blog platform with authentication, markdown editor, and post analytics  
+🔗 [GitHub Repo](https://github.com/Tuhin114/blogverse) | [Live Site](https://blogverse.vercel.app)
+
+#### 📸 ImageForge – AI Image Generator  
+> Built with OpenAI DALL·E, Cloudinary, and Next.js. Create and share AI-generated images in seconds.  
+🔗 [GitHub Repo](https://github.com/Tuhin114/imageforge) | [Live Site](https://imageforge.vercel.app)
+
+#### 🎯 DevLinker – Developer Linktree  
+> Custom, personal branding micro-site generator for developers  
+🔗 [GitHub Repo](https://github.com/Tuhin114/devlinker)
+
+---
+
+### 👨‍💻 Coding Profiles
+
+<p>
+  <a href="https://leetcode.com/tuhin114/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/tuhin114"><img src="https://img.shields.io/badge/GeeksforGeeks-14a800?style=flat-square&logo=GeeksforGeeks&logoColor=white" /></a>
+  <a href="https://www.codechef.com/users/tuhin114"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/tuhinpoddar114"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white" /></a>
+</p>
+
+---
+
+### 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,bootstrap,tailwind,git,github,vscode,vercel,docker,linux" />
+</p>
+
+---
+
+### 📘 Currently Learning
+
+- 🌐 **Next.js 14** App Router & Server Actions  
+- ☁️ **DevOps**: GitHub Actions, Docker, Linux  
+- 🧠 **Generative AI** with Python (LangChain, LlamaIndex)  
+- ⚙️ Clean code and SOLID principles  
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhankar235&layout=compact&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tuhin114&show_icons=true&theme=radical&hide_border=false&count_private=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tuhin114&layout=compact&theme=radical&hide_border=false" width="48%" />
 </p>
 
 ---
 
-## 📝 Latest Blogs
+### 🥧 Top Languages (Pie Chart)
 
-- ✅ [Do You Really Need Context API in React? (vs Props)](https://your-blog-link.com)
-- 🎨 [CSS Flexbox Made Easy with Real-World Examples](#)
-- 🔍 [Data Structures You Must Know for Interviews](#)
-- 🧠 [How I Plan to Land a 50 LPA Job in 2 Years](#)
-
----
-
-## 🏗️ Featured Projects
-
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| **DevBlog Platform** | Developer blogging platform with markdown, login, editor | React, MongoDB, Node.js |
-| **AI Image Generator** | Create AI images from prompts using OpenAI API | Python, Flask, HuggingFace |
-| **Snake Game** | Classic game using JavaScript Canvas | HTML, CSS, JavaScript |
-| **Portfolio Website** | Clean personal portfolio hosted on GitHub Pages | React, TailwindCSS |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tuhin114&layout=pie&theme=radical&hide_border=false" />
+</p>
 
 ---
 
-## 📫 Let’s Connect
+### 🔥 Streak Stats
 
-- 🔗 [Portfolio](https://your-portfolio-link.com)
-- 💼 [LinkedIn](https://linkedin.com/in/yourusername)
-- 📷 [Instagram](https://instagram.com/yourusername)
-- 🐦 [Twitter / X](https://twitter.com/yourusername)
-- 👨‍💻 [LeetCode](https://leetcode.com/yourusername)
-- 💡 [GeeksforGeeks](https://auth.geeksforgeeks.org/user/yourusername)
-- 📓 [Hashnode Blog](https://hashnode.com/@yourusername)
-- 📝 [Medium](https://medium.com/@yourusername)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tuhin114&theme=radical&hide_border=true" />
+</p>
 
 ---
 
-## ❤️ Support My Journey
+### 📈 Contribution Graph
 
-If you find my work helpful, please consider starring 🌟 my repositories and sharing them. Every bit of support means a lot to me!
+<p align="center">
+  <img src="https://github-contribution-graph.ez4o.com/?username=Tuhin114&color=00e5ff" />
+</p>
 
-```bash
-git clone https://github.com/your-username/your-username
+---
+
+### 🏅 GitHub Badges
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Tuhin114?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/Tuhin114?style=social" />
+  <img src="https://komarev.com/ghpvc/?username=Tuhin114&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+### 🏆 Achievements
+
+- 🥈 Runner-up at **Hack4Bengal 3.0**  
+- 📘 Published blog on **Hashnode**  
+- 🧑‍💻 B.Tech CSE '27 | 2nd Year Undergrad  
+- 💻 100+ LeetCode problems solved  
+
+---
+
+> ⚡ _“Code that helps people > code that just works.”_  
+> 👀 _Let’s connect and build something cool!_
+
