@@ -35,78 +35,46 @@ I'm a passionate **Full Stack Web Developer** from India, currently diving deep 
 ## 🛠 Tech Stack
 
 <table>
-  <tr>
-    <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" /><br />
-      <strong>HTML5</strong>
-    </td>
-    <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" /><br />
-      <strong>CSS3</strong>
-    </td>
-    <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" /><br />
-      <strong>JavaScript</strong>
-    </td>
-    <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React" /><br />
-      <strong>React</strong>
-    </td>
-  </tr>
+## 🚀 Skills Overview
 
-  <tr>
-    <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js" /><br />
-      <strong>Node.js</strong>
-    </td>
-    <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50" alt="Express" /><br />
-      <strong>Express</strong>
-    </td>
-    <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB" /><br />
-      <strong>MongoDB</strong>
-    </td>
-    <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" /><br />
-      <strong>MySQL</strong>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" /><br />
-      <strong>Python</strong>
-    </td>
-    <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker" /><br />
-      <strong>Docker</strong>
-    </td>
-    <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" alt="Linux" /><br />
-      <strong>Linux</strong>
-    </td>
-    <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git" /><br />
-      <strong>Git</strong>
-    </td>
-  </tr>
-</table>
-
-
-## 🏅 My GitHub Badges
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=subhankar235&theme=algolia&no-bg=true&margin-w=10" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/your-username?label=Followers&style=social" />
-  <img src="https://img.shields.io/github/stars/your-username?style=social" />
-  <img src="https://img.shields.io/github/contributions/your-username/month?color=green" />
+### 🧠 Languages I Know
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
 ---
+
+### ⚙️ Tech Stack I Use
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
+
+---
+
+### 📚 Currently Learning
+<p align="left">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=api&logoColor=white" alt="REST API" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jwt&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" />
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=python&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FCC624?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
+
 
 ## 📈 GitHub Stats
 
