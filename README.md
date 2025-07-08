@@ -12,8 +12,8 @@
 - 🔭 I’m currently working on **React.js, Node.js, and Backend Projects**
 - 🌱 I’m learning **Generative AI**, **Next.js**, and **DevOps Basics**
 - 🧠 Practicing **Data Structures & Algorithms** daily
-- 📫 Reach me at: **sanunath123@gmail.com**
-- 💼 Goal: **Internship in 1 Year • 50+ LPA Job in 2 Years**
+-
+- 
 
 ---
 
