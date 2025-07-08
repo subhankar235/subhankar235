@@ -2,20 +2,18 @@
 
 <h1 align="center">Hi 👋, I'm Subhankar Nath</h1>
 <h3 align="center">Aspiring Full-Stack developer | Building cool things 💻</h3>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=💻+Building+Website+with+React.js;📚+Learning+Generative+AI;🤝+Let%27s+Connect+and+Collaborate!" alt="Typing SVG" />
 </p>
 
 
----
 
 ### 🌱 About Me
 
 - 🌱 I’m currently learning **MongoDB**, **Express.js**, and **Gen-AI**
 - 🌱 I love developing new products 😄
 - 🌱 You can see my pinned projects below ⬇️
-- 🌱 You can mail me at: **subhankarnath57@gmail.com**
+- 🌱 You can mail me at: **nathsubhankar57@gmail.com**
 
 ---
 
