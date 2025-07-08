@@ -36,10 +36,7 @@
 
 
 ### 🛠️ Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,javascript,tailwind-css,css-bootstrap,git,github,vscode" />
-</p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,tailwind,bootstrap,git,github,vscode" /> </p>
 
 ### 🏅 GitHub Badges
 
