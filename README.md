@@ -48,6 +48,22 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,javascript,git,github,vscode" />
 </p>
 
+### 🏅 GitHub Badges
+
+<p align="center">
+  <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="200" />
+</p>
+
+<p align="center">
+  <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="200" />
+</p>
+<p align="center">
+  <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="200" />
+</p>
+<p align="center">
+  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="200" />
+</p>
+
 ### 📝 Latest Blog
 
 > ✅ **Do You Really Need Context API in React? (vs Props)**  
@@ -108,31 +124,8 @@
   <img src="https://github-contribution-graph.ez4o.com/?username=subhankar235&color=00e5ff" />
 </p>
 
----
 
-### 🏅 GitHub Badges
 
-<p align="center">
-  <a href="https://github.com/subhankar235?tab=followers">
-    <img src="https://img.shields.io/github/followers/subhankar235?label=Followers&style=social" />
-  </a>
-  <a href="https://github.com/subhankar235">
-    <img src="https://img.shields.io/github/stars/subhankar235?style=social" />
-  </a>
-  <a href="https://github.com/subhankar235">
-    <img src="https://komarev.com/ghpvc/?username=subhankar235&label=Profile%20views&color=0e75b6&style=flat" />
-  </a>
-</p>
-
----
-
-### 💎 Extra Badge
-
-<p align="center">
-  <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="200" />
-</p>
-
----
 
 > 💬 _“Build what matters. Share what helps.”_  
 > 🧠 Let's grow together and build amazing products 🚀
