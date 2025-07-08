@@ -1,5 +1,4 @@
 <!-- README.md -->
-
 <h1 align="center">Hi 👋, I'm Subhankar Nath</h1>
 <h3 align="center">Aspiring Full-Stack developer | Building cool things 💻</h3>
 <p align="center">
@@ -27,7 +26,7 @@
     <img src="https://img.shields.io/badge/Twitter-@SubhankarN33292-blue?style=for-the-badge&logo=x" />
   </a>
   <a href="mailto:subhankarnath57@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
