@@ -80,12 +80,12 @@ I'm a passionate **Full Stack Web Developer** from India, currently diving deep 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=react&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=react&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=subhankar235&show_icons=true&theme=react&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=subhankar235theme=react&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=react" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhankar235&layout=compact&theme=react" />
 </p>
 
 ---
