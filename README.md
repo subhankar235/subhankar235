@@ -4,8 +4,9 @@
 <h3 align="center">Aspiring Full-Stack  | Building cool things 💻</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&width=435&lines=🚀+Currently+Learning+MERN+%26+GenAI;💻+Loves+building+products;🔥+Let's+connect+and+code!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=💻+Building+Full-Stack+Apps+with+Next.js;📚+Learning+DevOps+%26+Generative+AI;🔍+Exploring+Clean+Architecture;🤝+Let%27s+Connect+and+Collaborate!" alt="Typing SVG" />
 </p>
+
 
 ---
 
@@ -27,12 +28,25 @@
   <a href="https://x.com/SubhankarN33292">
     <img src="https://img.shields.io/badge/Twitter-@SubhankarN33292-blue?style=for-the-badge&logo=x" />
   </a>
-  <a href="mailto:subhankarnath56@gmail.com">
+  <a href="mailto:subhankarnath57@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
 ---
+### 🥧 Top Languages (Pie Chart)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhankar235&layout=pie&theme=radical" />
+</p>
+
+---
+
+### 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,javascript,git,github,vscode" />
+</p>
 
 ### 📝 Latest Blog
 
@@ -70,14 +84,6 @@
 
 ---
 
-### 🛠️ Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,git,github,vscode" />
-</p>
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -87,13 +93,6 @@
 
 ---
 
-### 🥧 Top Languages (Pie Chart)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhankar235&layout=pie&theme=radical" />
-</p>
-
----
 
 ### 🔥 Streak Stats
 
