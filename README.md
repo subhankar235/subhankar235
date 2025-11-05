@@ -2,13 +2,11 @@
 <!-- README.md -->
 <h1 align="center">Hi 👋, I'm Subhankar Nath</h1>
 <h3 align="center">Full-Stack Developer | Building cool things 💻</h3>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=💻+Building+Web+Apps+with+React.js+and+Node.js;AI+Projects;TypeScript+Mastery;" alt="Typing SVG" />
-</p>
+
 
 ### 🌱 About Me
 
-- 🌱 I’ve completed my **Full-Stack Development journey** including **React.js, Node.js, Express.js, MongoDB, GraphQL, TypeScript, and Socket.io**
+-
 - 🌱 I love building **real-world web applications** 😄
 - 🌱 You can see my **pinned projects** below ⬇️
 - 🌱 You can mail me at: **nathsubhankar57@gmail.com**
@@ -58,9 +56,10 @@
 
 ### 🚀 Featured Project
 
-#### 🐍 Snake Game (JS + HTML + CSS)
-> Classic snake game using vanilla JavaScript  
-🔗 [GitHub Repo](https://github.com/subhankar235/snake-game.git)
+#### 📚 Book Store CRUD Web App (Full-Stack)
+> A full-stack web application for managing books with **CRUD functionality**. Built using **React.js, Node.js, Express.js, MongoDB, and TypeScript**.  
+🔗 [GitHub Repo](https://github.com/subhankar235/book-store-crud-web)
+
 
 ---
 
