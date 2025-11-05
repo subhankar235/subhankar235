@@ -5,8 +5,6 @@
 
 
 ### 🌱 About Me
-
--
 - 🌱 I love building **real-world web applications** 😄
 - 🌱 You can see my **pinned projects** below ⬇️
 - 🌱 You can mail me at: **nathsubhankar57@gmail.com**
