@@ -1,18 +1,16 @@
+
 <!-- README.md -->
 <h1 align="center">Hi 👋, I'm Subhankar Nath</h1>
-<h3 align="center">Aspiring Full-Stack developer | Building cool things 💻</h3>
+<h3 align="center">Full-Stack Developer | Building cool things 💻</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=💻+Building+Website+with+React.js;AI;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=💻+Building+Web+Apps+with+React.js+and+Node.js;AI+Projects;TypeScript+Mastery;" alt="Typing SVG" />
 </p>
-
-
-
 
 ### 🌱 About Me
 
-- 🌱 I’m currently learning **MongoDB**, **Express.js**, and **Gen-AI**
-- 🌱 I love developing new products 😄
-- 🌱 You can see my pinned projects below ⬇️
+- 🌱 I’ve completed my **Full-Stack Development journey** including **React.js, Node.js, Express.js, MongoDB, GraphQL, TypeScript, and Socket.io**
+- 🌱 I love building **real-world web applications** 😄
+- 🌱 You can see my **pinned projects** below ⬇️
 - 🌱 You can mail me at: **nathsubhankar57@gmail.com**
 
 ---
@@ -26,30 +24,28 @@
   <a href="https://x.com/SubhankarN33292">
     <img src="https://img.shields.io/badge/Twitter-@SubhankarN33292-blue?style=for-the-badge&logo=x" />
   </a>
-
 </p>
 
-:
+---
 
 🚀Languages I Use
-<p> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> </p>
+<p> 
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
 
 ### 🛠️ Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,tailwind,bootstrap,git,github,vscode" /> </p>
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,graphql,socketio,tailwind,bootstrap,git,github,vscode" /> 
+</p>
 
 ### 🏅 GitHub Badges
-
 <p align="center">
   <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="200" />
-</p>
-
-<p align="center">
   <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="200" />
-</p>
-<p align="center">
   <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="200" />
-</p>
-<p align="center">
   <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="200" />
 </p>
 
@@ -81,11 +77,11 @@
 
 ---
 
-### 💼 Currently Learning
+### 💼 Currently Exploring
 
-- MongoDB  
-- Express.js  
-- Gen-AI (LLMs, Vector DBs, Prompting)
+- Advanced **GraphQL**  
+- **Real-time apps with Socket.io**  
+- **AI & Generative AI projects**
 
 ---
 
@@ -97,7 +93,6 @@
 </p>
 
 ---
-
 
 ### 🔥 Streak Stats
 
@@ -113,8 +108,3 @@
   <img src="https://github-contribution-graph.ez4o.com/?username=subhankar235&color=00e5ff" />
 </p>
 
-
-
-
-> 💬 _“Build what matters. Share what helps.”_  
-> 🧠 Let's grow together and build amazing products 🚀
