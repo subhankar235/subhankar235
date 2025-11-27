@@ -1,13 +1,14 @@
+# Hi 👋, I'm Subhankar Nath
 
-<!-- README.md -->
-<h1 align="center">Hi 👋, I'm Subhankar Nath</h1>
-<h3 align="center">Full-Stack Developer | Building cool things 💻</h3>
+### Full-Stack Developer | Building Cool Things 💻
 
+---
 
 ### 🌱 About Me
-- 🌱 I love building **real-world web applications** 😄
-- 🌱 You can see my **pinned projects** below ⬇️
-- 🌱 You can mail me at: **nathsubhankar57@gmail.com**
+
+* I love building **real-world web applications** 😄
+* You can explore my **pinned projects** below ⬇️
+* Mail me at: **[nathsubhankar57@gmail.com](mailto:nathsubhankar57@gmail.com)**
 
 ---
 
@@ -24,7 +25,8 @@
 
 ---
 
-🚀Languages I Use
+### 🚀 Languages I Use
+
 <p> 
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> 
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> 
@@ -32,12 +34,18 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
+---
+
 ### 🛠️ Tech Stack
+
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,graphql,socketio,tailwind,bootstrap,git,github,vscode" /> 
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,nextjs,graphql,socketio,tailwind,bootstrap,git,github,vscode" /> 
 </p>
 
+---
+
 ### 🏅 GitHub Badges
+
 <p align="center">
   <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="200" />
   <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="200" />
@@ -45,19 +53,31 @@
   <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="200" />
 </p>
 
+---
+
 ### 📝 Latest Blog
 
-> ✅ **Do You Really Need Context API in React? (vs Props)**  
-🔗 [Read on LinkedIn](https://lnkd.in/gA_WgN_2)
+> **Do You Really Need Context API in React? (vs Props)**
+> 🔗 [https://lnkd.in/gA_WgN_2](https://lnkd.in/gA_WgN_2)
 
 ---
 
-### 🚀 Featured Project
+### 🚀 Featured Projects
 
 #### 📚 Book Store CRUD Web App (Full-Stack)
-> A full-stack web application for managing books with **CRUD functionality**. Built using **React.js, Node.js, Express.js, MongoDB, and TypeScript**.  
-🔗 [GitHub Repo](https://github.com/subhankar235/book-store-crud-web)
 
+A complete CRUD application to manage books, built using **React.js, Node.js, Express.js, MongoDB, and TypeScript**.
+🔗 [https://github.com/subhankar235/book-store-crud-web](https://github.com/subhankar235/book-store-crud-web)
+
+#### ✍ TaleVerse — Blogging Platform (Full-Stack)
+
+User-friendly blogging app with authentication, dashboard, and rich text editor.
+🔗 [https://github.com/subhankar235/taleverse-blog](https://github.com/subhankar235/taleverse-blog)
+
+#### 💼 Job Portal (MERN Full-Stack)
+
+Full-stack job portal app with job posting, applications, filtering, and role-based authentication.
+🔗 [https://github.com/subhankar235/job_portal_full-stack](https://github.com/subhankar235/job_portal_full-stack)
 
 ---
 
@@ -76,9 +96,9 @@
 
 ### 💼 Currently Exploring
 
-- Advanced **GraphQL**  
-- **Real-time apps with Socket.io**  
-- **AI & Generative AI projects**
+* Advanced **GraphQL**
+* **Real-time apps with Socket.io**
+* **AI & Generative AI projects**
 
 ---
 
@@ -105,3 +125,4 @@
   <img src="https://github-contribution-graph.ez4o.com/?username=subhankar235&color=00e5ff" />
 </p>
 
+---
