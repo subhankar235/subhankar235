@@ -1,0 +1,2 @@
+in root folder download
+npm i express mongoose bcryptjs dotenv jsonwebtoken
