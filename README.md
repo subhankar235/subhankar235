@@ -74,11 +74,8 @@
 > Full-stack job portal with job posting, applications, filtering, and role-based authentication.  
 🔗 [GitHub Repo](https://github.com/subhankar235/job_portal_full-stack)
 
-#### 🌀 3D Rotating Hologram Display
-> A futuristic 3D rotating cube text display — like a digital TV hologram.  
-🔗 [GitHub Repo](https://github.com/subhankar235/3d-hologram-display)
 
----
+
 
 ### 👨‍💻 Coding Profiles
 <p align="center">
