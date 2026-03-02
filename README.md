@@ -15,7 +15,7 @@
 
 - 💻 I build **scalable full-stack applications**
 - 🤖 I design **AI-powered autonomous agent systems**
-- ⚡ Working with **modern TypeScript-first stacks**
+
 - 🌍 Passionate about **open source collaboration**
 
 ---
