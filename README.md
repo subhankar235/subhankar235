@@ -235,3 +235,4 @@ const subhankar = {
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:040d1a,30:0a1628,60:0d1b2e,100:0a0e1a&height=130&section=footer"/>
+
