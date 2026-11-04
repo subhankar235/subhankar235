@@ -28,7 +28,11 @@
 </div>
 
 ➤ Achievements :
-  - Winter of Code 5.0 • IIIT Kalyani
+
+- Hackathon Winner — Winner across 4 hackathon tracks.
+- National-Level Hackathons — Finalist in 8 hackathons, including MLH events.
+- Winter of Code 5.0 — Selected Contributor, IIIT Kalyani (WallGodds Organization).
+- UnvibeCode — Selected participant in the Developer Adoption & Repeat-Usage Challenge.
 
 <div align="center">
   <img
