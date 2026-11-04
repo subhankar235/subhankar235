@@ -16,8 +16,6 @@
   - [Aether](https://github.com/subhankar235/Aether)
 
 ➤ Achievements :
-  - 4x Hackathon Winner
-  - 8x Hackathon Finalist
   - Winter of Code 5.0 • IIIT Kalyani
 
 <div align="center">
