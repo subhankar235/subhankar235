@@ -14,6 +14,7 @@
 ➤ Projects :
   - [Zentrix.ai](https://github.com/subhankar235/Zentrix.ai)
   - [Aether](https://github.com/subhankar235/Aether)
+  - 
 ➤ **GitHub Contributions :**
 
 <div align="center">
@@ -25,6 +26,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=subhankar235&theme=github-compact&hide_border=true&area=true" width="100%" />
 
 </div>
+
 ➤ Achievements :
   - Winter of Code 5.0 • IIIT Kalyani
 
