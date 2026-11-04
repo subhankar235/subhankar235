@@ -14,7 +14,7 @@
 ➤ Projects :
   - [Zentrix.ai](https://github.com/subhankar235/Zentrix.ai)
   - [Aether](https://github.com/subhankar235/Aether)
-  - 
+
 ➤ **GitHub Contributions :**
 
 <div align="center">
